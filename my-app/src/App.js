@@ -11,7 +11,6 @@ import PulsesPage from './components/PulsesPage';
 import BeveragesPage from './components/BeveragesPage';
 import DairyProducts from './components/DairyProducts';
 import SpicesPage from './components/SpicesPage'; 
-//import CondimentsPage from './components/CondimentsPage';
 import SweetPage from './components/SweetPage';
 import GrainsPage from './components/GrainsPage';
 import { AuthProvider } from './context/AuthContext';
@@ -59,3 +58,5 @@ function App() {
 }
 
 export default App;
+
+
